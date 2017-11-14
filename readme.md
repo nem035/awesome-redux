@@ -78,7 +78,7 @@
 
  - [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux.
  - [redux-crud](https://github.com/Versent/redux-crud) - Set of standard actions and reducers for Redux CRUD Applications.
-
+ - [reduck](https://github.com/enkidevs/reduck) - Opinionated way to create reducers and action creators.
 
 ## Dev tools / Inspection tools
 
